@@ -1,12 +1,12 @@
 To: cygwin-announce@cygwin.com
-Subject: Updated: package N.N
-Subject: New package: urlgrabber 3.1.0-1 -- Python based URL grabber
+Subject: Updated: urlgrabber 3.1.0-1 -- Python based URL grabber
+--text follows this line--
 
 PACKAGE DESCRIPTION
 ===================
 
-Homepage: http://linux.duke.edu/projects/urlgrabber
-License : GPL
+Homepage: http://urlgrabber.baseurl.org
+License : LGPL
 
 Python based URL grabber
 
@@ -18,7 +18,7 @@ module, both of the name urlgrabber.
 CHANGES SINCE LAST RELEASE
 ==========================
 
-None.
+Built for Python 2.6
 
 INSTALL OR UPGRADE NOTES
 ========================
