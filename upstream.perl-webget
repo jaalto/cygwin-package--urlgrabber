@@ -1,0 +1,2 @@
+tag1: urlgrabber
+  /usr/src/build/build/urlgrabber/urlgrabber-3.1.0/CYGWIN-PATCHES pregexp:orig.tar.gz file:urlgrabber_3.1.0.orig.tar.gz new: x:

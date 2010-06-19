@@ -1,0 +1,71 @@
+urlgrabber
+------------------------------------------
+
+Python based URL grabber
+
+Program dramatically simplifies the fetching of files. It is designed
+to be used in programs that need common (but not necessarily simple)
+url-fetching features. This package provides both a binary and a
+module, both of the name urlgrabber.
+
+Program supports identical behavior for http://, ftp:// and file:///
+URIs. It provides HTTP keepalive, byte ranges, regets, progress
+meters, throttling, retries, access to authenticated http/ftp servers,
+and proxies. Additionally it has the ability to treat a list of
+mirrors as a single source and to automatically switch mirrors if
+there is a failure.
+
+Runtime requirements: cygwin
+
+Build requirements:
+  cygwin
+
+Canonical homepage:
+  http://linux.duke.edu/projects/urlgrabber
+  http://packages.debian.org/unstable/python-urlgrabber
+
+Canonical download:
+  See above
+
+Version control repository:
+
+Mailing list:
+
+Forum / Wiki:
+
+IRC channel:
+
+Upstream contact:
+  Maintainer: Michael D. Stenner <mstenner@linux.duke.edu>
+  Bugs: Michael D. Stenner <mstenner@linux.duke.edu>
+
+License:
+  GPL
+
+Language:
+  Python
+
+------------------------------------------
+
+Build instructions:
+  unpack urlgrabber-*-src.tar.bz2
+    if you use setup to install this src package, it will be
+    unpacked under /usr/src automatically
+  cd /usr/src
+  ./urlgrabber*.sh all
+
+------------------------------------------
+
+Files included in the binary distribution:
+  See content of *.tar.gz
+
+------------------------------------------
+
+Port Notes:
+- No manual page. Copied from Debian.
+
+----- version 3.1.0-1 -----
+- Initial release 2008-02-25 Jari Aalto
+
+Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
+Copyright (C) 2008 Jari Aalto; Licensed under GPL v2 or later

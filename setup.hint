@@ -1,0 +1,7 @@
+sdesc: "Python based URL grabber"
+ldesc: "Program dramatically simplifies the fetching of files. It is designed
+to be used in programs that need common (but not necessarily simple)
+url-fetching features. This package provides both a binary and a
+module, both of the name urlgrabber."
+category: Net Python
+requires: cygwin python

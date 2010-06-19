@@ -1,0 +1,26 @@
+From 799ff8602ba672fccf4149c3e99f29473330e1bf Mon Sep 17 00:00:00 2001
+From: Jari Aalto <jari.aalto@cante.net>
+Date: Mon, 25 Feb 2008 23:07:46 +0200
+Subject: [PATCH] Manual page: Remove word Debian
+
+Signed-off-by: Jari Aalto <jari.aalto@cante.net>
+---
+ urlgrabber.1 |    2 +-
+ 1 files changed, 1 insertions(+), 1 deletions(-)
+
+diff --git a/urlgrabber.1 b/urlgrabber.1
+index 267e94c..259f941 100644
+--- a/urlgrabber.1
++++ b/urlgrabber.1
+@@ -126,7 +126,7 @@ local_filename = g.urlgrab(url, filename=None, reget=None)
+ .SH "AUTHORS"
+ Written by: Michael D. Stenner <mstenner@linux.duke.edu> Ryan Tomayko <rtomayko@naeblis.cx>
+ .sp
+-This manual page was written by Kevin Coyner <kevin@rustybear.com> for the Debian system (but may be used by others). It borrows heavily on the documentation included in the urlgrabber module. Permission is granted to copy, distribute and/or modify this document under the terms of the GNU General Public License, Version 2 any later version published by the Free Software Foundation.
++This manual page was written by Kevin Coyner <kevin@rustybear.com>. It borrows heavily on the documentation included in the urlgrabber module. Permission is granted to copy, distribute and/or modify this document under the terms of the GNU General Public License, Version 2 any later version published by the Free Software Foundation.
+ .sp
+ .SH "RESOURCES"
+ Main web site: \fIhttp://linux.duke.edu/projects/urlgrabber/\fR
+-- 
+1.5.3.8
+
