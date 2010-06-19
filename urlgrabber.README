@@ -21,7 +21,7 @@ Build requirements:
   cygwin
 
 Canonical homepage:
-  http://linux.duke.edu/projects/urlgrabber
+  http://urlgrabber.baseurl.org
   http://packages.debian.org/unstable/python-urlgrabber
 
 Canonical download:
@@ -37,10 +37,10 @@ IRC channel:
 
 Upstream contact:
   Maintainer: Michael D. Stenner <mstenner@linux.duke.edu>
-  Bugs: Michael D. Stenner <mstenner@linux.duke.edu>
+  Bugs: https://bugzilla.redhat.com
 
 License:
-  GPL
+  LGPL
 
 Language:
   Python
@@ -68,4 +68,4 @@ Port Notes:
 - Initial release 2008-02-25 Jari Aalto
 
 Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
-Copyright (C) 2008 Jari Aalto; Licensed under GPL v2 or later
+Copyright (C) 2008-2010 Jari Aalto; Licensed under GPL v2 or later
